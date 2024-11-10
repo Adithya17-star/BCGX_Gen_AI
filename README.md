@@ -1,1 +1,1 @@
-# BCGX_Gen_AI
+# BCGx_Gen_AI
